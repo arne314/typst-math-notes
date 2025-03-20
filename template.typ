@@ -51,6 +51,17 @@
 #let lang = "fr"
 
 #let lexicon = (
+  de: (
+    axiom:      "Axiom",
+    definition: "Definition",
+    theorem:    "Satz",
+    lemma:      "Lemma",
+    corollary:  "Korollar",
+    exercice:   "Übung",
+    proof:      "Beweis",
+    example:    "Beispiel",
+    solution:   "Lösung",
+  ),
   en: (
     axiom:      "Axiom",
     definition: "Definition",
